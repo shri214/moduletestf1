@@ -430,4 +430,7 @@ main::before {
   .num > span {
     font: 13px;
   }
+  .name {
+    font-size: 22px;
+  }
 }
